@@ -716,7 +716,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="312"/>
         <source>Select &amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>全部不选</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="315"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="324"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>选取全部</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="327"/>
@@ -736,7 +736,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="336"/>
         <source>Select &amp;Even</source>
-        <translation type="unfinished"></translation>
+        <translation>选取偶数</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="339"/>
@@ -746,7 +746,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="348"/>
         <source>Select &amp;Odd</source>
-        <translation type="unfinished"></translation>
+        <translation>选取奇数</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="351"/>
@@ -756,7 +756,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="360"/>
         <source>Select &amp;Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>选取纵向</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="363"/>
@@ -766,7 +766,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="372"/>
         <source>Select &amp;Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation >选取横向</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="375"/>
@@ -776,7 +776,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="384"/>
         <source>Rotate &amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>向右旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="387"/>
@@ -786,7 +786,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="396"/>
         <source>Rotate &amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>向左旋转</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="399"/>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="408"/>
         <source>&amp;Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="411"/>
@@ -806,7 +806,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="420"/>
         <source>Zoo&amp;m Out</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="423"/>
