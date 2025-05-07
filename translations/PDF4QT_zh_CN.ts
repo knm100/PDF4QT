@@ -978,7 +978,7 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="159"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="162"/>
@@ -988,7 +988,7 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="171"/>
         <source>&amp;Previous Difference</source>
-        <translation type="unfinished"></translation>
+        <translation>上个差异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="174"/>
@@ -998,12 +998,12 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="183"/>
         <source>&amp;Next Difference</source>
-        <translation type="unfinished"></translation>
+        <translation>下个差异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="195"/>
         <source>Create Compare &amp;Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>创建比较报告</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="207"/>
@@ -1155,22 +1155,22 @@
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="14"/>
         <source>Output Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>输出预览</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="58"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="64"/>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>红色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="71"/>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="78"/>
@@ -1473,7 +1473,7 @@
         <location filename="../Pdf4QtLibGui/pdfdocumentpropertiesdialog.ui" line="125"/>
         <location filename="../Pdf4QtLibGui/pdfdocumentpropertiesdialog.ui" line="131"/>
         <source>Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>字体</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfdocumentpropertiesdialog.ui" line="161"/>
@@ -1483,7 +1483,7 @@
     <message>
         <location filename="../Pdf4QtLibGui/pdfdocumentpropertiesdialog.ui" line="167"/>
         <source>Display &amp;&amp; Print Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>显示打印设置</translation>
     </message>
 </context>
 <context>
@@ -1491,12 +1491,12 @@
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="14"/>
         <source>PDF Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF 编辑器</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="28"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="47"/>
@@ -1506,7 +1506,7 @@
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="51"/>
         <source>Book&amp;mark Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>书签设置</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfeditormainwindow.ui" line="71"/>
@@ -3359,22 +3359,22 @@
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="95"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>用户</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="99"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>糸统</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="156"/>
         <source>Install Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>安装证书</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="159"/>
         <source>Install a new user certificate to certificate store.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装一个新用户证收到证书库</translation>
     </message>
     <message>
         <location filename="../PdfTool/pdftoolcertstore.cpp" line="180"/>
@@ -5084,7 +5084,7 @@
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="14"/>
         <source>PDF Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF 阅读器</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewermainwindow.ui" line="28"/>
@@ -7452,7 +7452,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfobjecteditormodel.cpp" line="516"/>
         <source>Readonly</source>
-        <translation type="unfinished"></translation>
+        <translation>只读</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibCore/sources/pdfobjecteditormodel.cpp" line="517"/>
