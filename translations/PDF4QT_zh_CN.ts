@@ -1008,77 +1008,77 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="207"/>
         <source>Filter &amp;Text</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤文本</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="219"/>
         <source>Filter &amp;Vector Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤矢量图</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="231"/>
         <source>Filter &amp;Images</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤图像</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="243"/>
         <source>Filter &amp;Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤着色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="255"/>
         <source>Filter &amp;Page Movement</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤页面移动</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="267"/>
         <source>View &amp;Differences</source>
-        <translation type="unfinished"></translation>
+        <translation>查看差异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="279"/>
         <source>View &amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>查看左边</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="291"/>
         <source>View &amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>查看右边</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="303"/>
         <source>View &amp;Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>查看重叠</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="315"/>
         <source>&amp;Show Pages with Differences</source>
-        <translation type="unfinished"></translation>
+        <translation>显示有差异的页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="318"/>
         <source>Show Pages with Differences</source>
-        <translation type="unfinished"></translation>
+        <translation>显示有差异的页面</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="327"/>
         <source>Save Differences to &amp;XML...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存差异为XML...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="339"/>
         <source>S&amp;ynchronize View with Differences</source>
-        <translation type="unfinished"></translation>
+        <translation>同步差异视图</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="351"/>
         <source>Display &amp;Differences</source>
-        <translation type="unfinished"></translation>
+        <translation>显示差异</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="363"/>
         <source>Display &amp;Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示标注</translation>
     </message>
 </context>
 <context>
@@ -1086,17 +1086,17 @@
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectinspectordialog.ui" line="14"/>
         <source>Object Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>对象检查器</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectinspectordialog.ui" line="24"/>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>对象</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectinspectordialog.ui" line="48"/>
         <source>Current Object</source>
-        <translation type="unfinished"></translation>
+        <translation>当前对象</translation>
     </message>
 </context>
 <context>
@@ -1104,7 +1104,7 @@
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectstatisticsdialog.ui" line="14"/>
         <source>Object Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>对象统计</translation>
     </message>
 </context>
 <context>
@@ -1112,42 +1112,42 @@
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表格</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="35"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>固定</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="42"/>
         <source>Unpin</source>
-        <translation type="unfinished"></translation>
+        <translation>取消固定</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="51"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="57"/>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>参考</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="71"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="85"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/ObjectInspectorPlugin/objectviewerwidget.ui" line="102"/>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
 </context>
 <context>
@@ -1175,42 +1175,42 @@
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="78"/>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>绿色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="85"/>
         <source>Simulate separations</source>
-        <translation type="unfinished"></translation>
+        <translation>仿真分离</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="95"/>
         <source>Simulate paper color</source>
-        <translation type="unfinished"></translation>
+        <translation>仿真纸张颜色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="144"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>显示</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="150"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>图像</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="160"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="170"/>
         <source>Vector graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>矢量图</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="180"/>
         <source>Shading patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>着色模式</translation>
     </message>
     <message>
         <location filename="../Pdf4QtEditorPlugins/OutputPreviewPlugin/outputpreviewdialog.ui" line="190"/>
