@@ -817,13 +817,13 @@
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="432"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="108"/>
         <source>&amp;Get Source</source>
-        <translation type="unfinished"></translation>
+        <translation>获取源码</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="441"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="117"/>
         <source>&amp;About...</source>
-        <translation type="unfinished"></translation>
+        <translation>关于...</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="444"/>
@@ -834,7 +834,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="453"/>
         <source>&amp;United Document...</source>
-        <translation type="unfinished"></translation>
+        <translation>合并文档</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="456"/>
@@ -845,7 +845,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="465"/>
         <source>&amp;Separate to Multiple Documents...</source>
-        <translation type="unfinished"></translation>
+        <translation>分成多个文档</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="468"/>
@@ -856,7 +856,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="477"/>
         <source>Separate to Multiple Documents (&amp;Grouped)...</source>
-        <translation type="unfinished"></translation>
+        <translation>分成多个文档（已分组）</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="480"/>
@@ -866,7 +866,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="489"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="492"/>
@@ -876,7 +876,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="501"/>
         <source>U&amp;ngroup</source>
-        <translation type="unfinished"></translation>
+        <translation>取消分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="504"/>
@@ -886,12 +886,12 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="513"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清空</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="525"/>
         <source>Regroup by &amp;Even/Odd Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>按奇偶页码重分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="534"/>
