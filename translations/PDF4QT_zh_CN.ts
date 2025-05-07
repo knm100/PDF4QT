@@ -896,37 +896,37 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="534"/>
         <source>Regroup by Re&amp;verse</source>
-        <translation type="unfinished"></translation>
+        <translation>按逆序重分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="543"/>
         <source>Regroup by &amp;Page Pairs</source>
-        <translation type="unfinished"></translation>
+        <translation>按页码对重分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="552"/>
         <source>Regroup by &amp;Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>按大纲重分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="561"/>
         <source>Regroup by &amp;Alternating Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>按交替页码重分组</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="570"/>
         <source>Regroup by Alternating Pages (&amp;Reversed Order)</source>
-        <translation type="unfinished"></translation>
+        <translation>按交替页码重分组（逆序）</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="579"/>
         <source>&amp;Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>反转选择</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="588"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="591"/>
@@ -936,7 +936,7 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="600"/>
         <source>Re&amp;do</source>
-        <translation type="unfinished"></translation>
+        <translation>重做</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="603"/>
@@ -946,19 +946,19 @@
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="608"/>
         <source>&amp;Prepare Icon Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>准备图标主题</translation>
     </message>
     <message>
         <location filename="../Pdf4QtPageMaster/mainwindow.ui" line="617"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="372"/>
         <source>Become a &amp;Sponsor</source>
-        <translation type="unfinished"></translation>
+        <translation>成为赞助人</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="55"/>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="147"/>
         <source>&amp;Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>比较</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="76"/>
@@ -968,12 +968,12 @@
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="129"/>
         <source>Open &amp;Left...</source>
-        <translation type="unfinished"></translation>
+        <translation>在左边打开</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="138"/>
         <source>Open &amp;Right...</source>
-        <translation type="unfinished"></translation>
+        <translation>在右边打开</translation>
     </message>
     <message>
         <location filename="../Pdf4QtDiff/mainwindow.ui" line="159"/>
