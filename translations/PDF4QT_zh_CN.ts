@@ -14383,32 +14383,32 @@ Page %2: %3</source>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="106"/>
         <source>Software | Blend2D | Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>软件 |Blend2D |平行</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="107"/>
         <source>Software | Blend2D | Sequential</source>
-        <translation type="unfinished"></translation>
+        <translation>软件 |Blend2D |顺序</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="109"/>
         <source>Single thread</source>
-        <translation type="unfinished"></translation>
+        <translation>单线程</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="110"/>
         <source>Multithreading (load balanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>多线程 （负载均衡）</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="111"/>
         <source>Multithreading (maximum threads)</source>
-        <translation type="unfinished"></translation>
+        <translation>多线程 （最大线程数）</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="120"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="121"/>
@@ -14418,32 +14418,32 @@ Page %2: %3</source>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="122"/>
         <source>Relative colorimetric</source>
-        <translation type="unfinished"></translation>
+        <translation>相对比色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="123"/>
         <source>Absolute colorimetric</source>
-        <translation type="unfinished"></translation>
+        <translation>绝对比色</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="124"/>
         <source>Saturation</source>
-        <translation type="unfinished"></translation>
+        <translation>饱和度</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="126"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>低</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="127"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>中</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="128"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>高</translation>
     </message>
     <message>
         <location filename="../Pdf4QtLibGui/pdfviewersettingsdialog.cpp" line="130"/>
